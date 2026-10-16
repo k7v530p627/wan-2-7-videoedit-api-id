@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-e9f728) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [wan-2-7-videoedit-prompts-id](https://github.com/k7v530p627/wan-2-7-videoedit-prompts-id)
+- **Same model, other languages** — 9 more language builds: 中文 `wan-2-7-videoedit-api-cn` · Deutsch [wan-2-7-videoedit-api-de](https://github.com/p0tabmmad84qix/wan-2-7-videoedit-api-de) · Español [wan-2-7-videoedit-api-es](https://github.com/a1bvc/wan-2-7-videoedit-api-es) · Français [wan-2-7-videoedit-api-fr](https://github.com/sg40e98dutpek/wan-2-7-videoedit-api-fr) · Relay/gateway `wan-2-7-videoedit-api-gateway` · 日本語 [wan-2-7-videoedit-api-ja](https://github.com/a04qbov86mrd/wan-2-7-videoedit-api-ja) · 한국어 `wan-2-7-videoedit-api-ko` · Português `wan-2-7-videoedit-api-pt` · Русский [wan-2-7-videoedit-api-ru](https://github.com/f60ozqblr0/wan-2-7-videoedit-api-ru)
+- **More models in this language** — [midjourney-api-id](https://github.com/cvrwq0/midjourney-api-id) · [gemini-2-5-flash-image-preview-api-id](https://github.com/gmrg0s/gemini-2-5-flash-image-preview-api-id) · [nano-banana-api-id](https://github.com/vsa185x9ecrd/nano-banana-api-id) · [gemini-3-1-flash-image-preview-api-id](https://github.com/p61qrgpg/gemini-3-1-flash-image-preview-api-id) · [nano-banana-2-api-id](https://github.com/n1rf4ezzz/nano-banana-2-api-id) · [gemini-3-pro-image-preview-api-id](https://github.com/s78ve5v4x9ji2/gemini-3-pro-image-preview-api-id)
+- **Topic hubs** — every build of this model, all languages: [wan-2-7-videoedit](https://github.com/topics/wan-2-7-videoedit) · [wan-2-7-videoedit-api](https://github.com/topics/wan-2-7-videoedit-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
